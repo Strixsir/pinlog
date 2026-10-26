@@ -1,0 +1,16 @@
+{
+  "name": "PinLog",
+  "short_name": "PinLog",
+  "description": "A private log for TRT: doses, schedules, injection sites, stock, body metrics and bloodwork. Everything stays on your device.",
+  "start_url": "./#today",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF1EF",
+  "theme_color": "#0A7A5D",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
