@@ -55,22 +55,27 @@ Five places, each answering one question.
 - The ring at the top shows how much of today is done.
 - **Next up** shows the next dose large: how much, how much to draw, which site. Tap **Log it**, or **Skip**.
 - Everything else due today is a checklist. Tap the circle when you take it. Tap the name to change the dose, site, time or notes.
-- **This week** shows planned doses as dots. Tap a day to open it in the calendar.
+- Split doses add up. Two 250 mg pins of Test C on one day show as **500 mg in total today (2.00 mL)**.
+- **Log another dose** (or **Log a dose** in the menu, or the **L** key) opens a list of all your compounds. Tick everything you took, change any amount, and add **Another injection** for a split dose. Each injection gets its own site, picked so you don't hit the same spot twice. The button shows what you're about to save, for example "Log 500 mg (2 doses)".
+- **This week** is a grid: one row per compound, one column per day, showing the amount taken (filled) or still planned (outlined), with weekly totals like "500 mg taken, 100 mg to go". Use the arrows to see other weeks. Tap a day to open it in the calendar.
 - **At a glance**: four tiles, one number each: weight, doses of supply left, % on schedule, days since bloodwork.
+- **Plot my levels** draws estimated levels for the injected esters in your current plan.
 
-**Calendar: what happened when?** Month view with dots, or a list of every entry. Tap any entry to edit or delete it.
+**Levels plotter.** Pick an ester (testosterone cypionate, enanthate, propionate or undecanoate, nandrolone decanoate, one of your own compounds, or any half-life you enter), a dose and how often, then tap **Plot**. It shows when levels settle, the highest and lowest point between doses, and how big the ups and downs are. Add lines to compare, for example 200 mg weekly against 100 mg twice a week. Short-acting things like oral tablets and GH are left out of the plan plot because they clear within hours. It's a model from approximate half-lives, not a blood test and not dosing advice. Nothing you try here changes your log.
 
-**Compounds: what am I on?**
+**Calendar: what happened when?** Month view with dots, or a list of every entry. Each day shows totals per compound ("Testosterone Cypionate: 500 mg in 2 doses"). Tap any entry to edit or delete it.
+
+**My compounds: what am I on?**
 - **Add**: four short steps. What is it (search the list or type any name to create your own), how you take it, how much, how often. Strength and supply are optional prompts at the end.
 - Tap a compound to see its schedule, supply ("35 doses left"), recent doses and details, with an Edit button on each.
 - Schedules support extra daily times, start and end dates, pausing and dose steps (titration). These sit under **More options** so they stay out of the way.
 
 **Progress: how am I doing?** One scroll of cards: % of planned doses taken, latest bloodwork, a weight chart with an optional goal, and estimated levels. **All measurements** opens body fat, lean mass, waist, resting heart rate and blood pressure.
 
-**More**: injection sites (turn off ones you don't use, add your own by tapping the body), a calculator (how much to draw, mixing vials, nmol/L ↔ ng/dL), backup and restore, calendar reminders, spreadsheet export and preferences.
+**More**: the levels plotter, injection sites (turn off ones you don't use, add your own by tapping the body), a calculator (how much to draw, mixing vials, nmol/L ↔ ng/dL), backup and restore, calendar reminders, spreadsheet export and preferences.
 
 ## Privacy
 
 There is no tracking, analytics or server. The only outside request is for the IBM Plex fonts from Google Fonts; if it's blocked, the app uses your device's normal font.
 
-PinLog is a personal record, not medical advice. Doses and schedules come from you and your doctor. Half-life values are approximate published figures you can edit, and level curves are rough estimates.
+PinLog is a personal record, not medical advice. Doses and schedules come from you and your doctor. Half-life values are approximate published figures you can edit, and level curves and the plotter are rough estimates.

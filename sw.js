@@ -1,6 +1,6 @@
 // PinLog service worker: lets the app open offline and install as an app.
 // Your log is NOT stored here; it lives in the browser's localStorage.
-const CACHE = 'pinlog-v3';
+const CACHE = 'pinlog-v4';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
